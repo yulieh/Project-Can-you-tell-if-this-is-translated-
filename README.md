@@ -5,7 +5,7 @@
 - How it Works 
 - Implications 
 - Limits and Developments 
-- 
+
 # **Objective**
 The goal of this repository is to introduce a program that asks a user to identify a number of random text from a twee if it is auto-generated or not. The user will then be asked if they are native or non-native speakers. 
 
